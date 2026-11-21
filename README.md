@@ -1,16 +1,18 @@
 # Shibadoku — поддержка
 
-Уютная логическая игра с сиба-ину для iPhone и iPad. В игре 100 головоломок: по одному сиба в каждой строке, столбце и цветной области; собаки не должны касаться даже по диагонали.
+Поддержка Shibadoku для iPhone, iPad и Android. В игре 100 головоломок: по одному сиба в каждой строке, столбце и цветной области; собаки не должны касаться даже по диагонали.
 
 ## Связаться с разработчиком
 
 [Сообщить о проблеме или задать вопрос](https://github.com/AzatZidane/Shibadoku-support/issues/new).
 
-Укажите модель устройства, версию iOS, номер уровня и описание проблемы. Обращения в Issues публичны: не прикладывайте пароли, платёжные данные или другие личные сведения. Разработчик: Azat Ismagilov.
+Укажите модель устройства, версию iOS или Android, версию игры, номер уровня и описание проблемы. Обращения в Issues публичны: не прикладывайте пароли, платёжные данные или другие личные сведения. Разработчик: Azat Ismagilov.
 
 ## Прогресс
 
 Игра сохраняет прогресс автоматически на устройстве. Для резервной копии откройте настройки и используйте экспорт JSON. Импорт заменяет текущий игровой прогресс содержимым выбранного файла. Перед удалением приложения сохраните нужный прогресс экспортом.
+
+В Android-версии автоматическое облачное резервное копирование данных приложения отключено. Для переноса или сохранения прогресса используйте ручной экспорт JSON. Очистка данных приложения в настройках Android или удаление приложения удаляет локальный прогресс; экспортированные файлы нужно удалить отдельно. В iOS резервные копии устройства по-прежнему управляются настройками Apple.
 
 ## Правила и настройки
 
@@ -22,8 +24,10 @@
 
 ## English
 
-Shibadoku is an offline puzzle game for iPhone and iPad. For support, [open an issue](https://github.com/AzatZidane/Shibadoku-support/issues/new) with your device model, iOS version, level number, and a description of the problem. Issues are public; do not include sensitive information. Developer: Azat Ismagilov.
+Support for Shibadoku on iPhone, iPad, and Android. For support, [open an issue](https://github.com/AzatZidane/Shibadoku-support/issues/new) with your device model, iOS or Android version, game version, level number, and a description of the problem. Issues are public; do not include sensitive information. Developer: Azat Ismagilov.
 
 The game saves progress locally. Export a JSON backup from Settings before deleting the app. Importing a backup replaces the current progress.
+
+Automatic cloud backup of app data is disabled in the Android version. Use a manual JSON export to keep or transfer progress. Clearing app data in Android Settings or uninstalling the app removes local progress; delete exported files separately. On iOS, device backups continue to be controlled by Apple settings.
 
 [Privacy policy](PRIVACY.md)
