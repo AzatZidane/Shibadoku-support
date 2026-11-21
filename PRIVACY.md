@@ -28,6 +28,8 @@ Shibadoku работает без регистрации и подключени
 
 [Связаться с разработчиком](https://github.com/AzatZidane/Shibadoku-support/issues/new). Обращения в GitHub Issues публичны. Не отправляйте личные данные в текст обращения.
 
+Также можно написать на [azatzidane@gmail.com](mailto:azatzidane@gmail.com). Письмо отправляется выбранным вами почтовым приложением только после вашего явного действия. Разработчик получает адрес отправителя и содержимое письма, включая добавленные вами вложения, чтобы ответить на обращение. Не отправляйте пароли, платёжные данные или другие конфиденциальные сведения. Обработка письма почтовым сервисом регулируется его правилами. Shibadoku не отправляет письма и данные поддержки автоматически.
+
 Эта страница размещена на GitHub. Когда вы посещаете GitHub или создаёте обращение, действует [политика конфиденциальности GitHub](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement). Это отдельный сайт; приложение не отправляет ему данные автоматически.
 
 ## Изменения
@@ -51,5 +53,7 @@ On Android, game progress and preferences are stored in local app data. Automati
 Exported files remain in the location you choose and can be deleted separately; uninstalling the app does not delete them. If you choose to save an export to a cloud service, that service's policies govern its processing and storage. The developer does not keep a server copy of progress. The app does not collect data from children or other users.
 
 For support, [open a GitHub issue](https://github.com/AzatZidane/Shibadoku-support/issues/new). Issues are public; do not include sensitive information. Visits to GitHub and support requests are governed by [GitHub's privacy policy](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement). The app does not automatically transmit data to GitHub.
+
+You can also email [azatzidane@gmail.com](mailto:azatzidane@gmail.com). Your chosen email app sends the message only after your explicit action. The developer receives the sender address and message contents, including attachments you add, to answer your request. Do not send passwords, payment details, or other sensitive information. Your email provider's policies govern its processing of the message. Shibadoku does not automatically send email or support data.
 
 This policy will be updated, with a revised date, if data practices change.

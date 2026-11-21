@@ -4,9 +4,11 @@
 
 ## Связаться с разработчиком
 
-[Сообщить о проблеме или задать вопрос](https://github.com/AzatZidane/Shibadoku-support/issues/new).
+[Сообщить о проблеме или задать вопрос в GitHub Issues](https://github.com/AzatZidane/Shibadoku-support/issues/new) или написать на [azatzidane@gmail.com](mailto:azatzidane@gmail.com).
 
 Укажите модель устройства, версию iOS или Android, версию игры, номер уровня и описание проблемы. Обращения в Issues публичны: не прикладывайте пароли, платёжные данные или другие личные сведения. Разработчик: Azat Ismagilov.
+
+Письмо отправляется выбранным вами почтовым приложением только после вашего явного действия. Разработчик получает адрес отправителя и содержимое письма, чтобы ответить. Не отправляйте пароли, платёжные данные или другие конфиденциальные сведения.
 
 ## Прогресс
 
@@ -24,7 +26,9 @@
 
 ## English
 
-Support for Shibadoku on iPhone, iPad, and Android. For support, [open an issue](https://github.com/AzatZidane/Shibadoku-support/issues/new) with your device model, iOS or Android version, game version, level number, and a description of the problem. Issues are public; do not include sensitive information. Developer: Azat Ismagilov.
+Support for Shibadoku on iPhone, iPad, and Android. For support, [open an issue](https://github.com/AzatZidane/Shibadoku-support/issues/new) or email [azatzidane@gmail.com](mailto:azatzidane@gmail.com) with your device model, iOS or Android version, game version, level number, and a description of the problem. Issues are public; do not include sensitive information. Developer: Azat Ismagilov.
+
+Your chosen email app sends the message only after your explicit action. The developer receives the sender address and message contents to reply. Do not send passwords, payment details, or other sensitive information.
 
 The game saves progress locally. Export a JSON backup from Settings before deleting the app. Importing a backup replaces the current progress.
 
